@@ -29,6 +29,8 @@ Target Variable:
 
 >50K
 
+
+
 3.Technologies Used:
 
 Python 
@@ -40,6 +42,7 @@ NumPy
 Matplotlib / Seaborn
 
 Scikit-learn
+
 
 
 4.Project Workflow:
@@ -56,13 +59,18 @@ Model Building
 
 Model Evaluation
 
+
+
 5.Machine Learning Model Used:
 
 Random Forest Classifier
 
+
+
 6.Model Performance
 
 Accuracy: 86% (change if improved)
+
 
 
 7.Conclusion
