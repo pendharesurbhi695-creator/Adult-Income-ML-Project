@@ -69,7 +69,7 @@ Random Forest Classifier
 
 6.Model Performance
 
-Accuracy: 86% (change if improved)
+Accuracy: 86% 
 
 
 
